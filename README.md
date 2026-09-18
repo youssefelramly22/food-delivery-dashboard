@@ -45,9 +45,6 @@ An interactive Food Delivery Dashboard built using Python, Pandas, Plotly and St
 
 [👉 Open Live Dashboard](https://food-delivery-dashboard-6av7mtflbz94hstazbal4z.streamlit.app)
 
-## 📊 Dashboard Preview
-
-![Food Delivery Dashboard](dashboard_preview.png)
 
 ## 🛠️ Tools & Technologies
 
